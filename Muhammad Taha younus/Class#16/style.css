@@ -1,0 +1,13 @@
+h2
+{
+    /* border-width: 2px;
+    border-color: red;
+    border-style: solid; */ 
+    border: 8px solid yellow;
+    /* text-align: center; */
+    padding: 50px ;
+    border-top-left-radius: 20px;
+    margin: 20px 50px;
+    
+    
+}

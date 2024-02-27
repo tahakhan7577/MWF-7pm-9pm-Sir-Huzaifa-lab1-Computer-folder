@@ -1,0 +1,26 @@
+ /* .box{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    transition: 4s; */
+
+.box{
+   
+    border: 1px solid black;
+   width: 100px;
+   height: 150px;
+   animation-name: taha;
+   animation-duration: 20s;
+
+}
+@keyframes taha{
+    0%{background-color: aqua;
+    }
+    20%{background-color: red;
+    }
+    40%{background-color: green;
+    }
+     60%{background-color: blue;}   
+    
+}
+

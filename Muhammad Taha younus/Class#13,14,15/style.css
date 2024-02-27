@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "class";
+    src: url("fonts/Lemon-Regular.ttf");
+}
+body{font-family: "class";}
+p{font-weight: 800;}
+#para{font-weight: lighter;}
+#para2{font-style: italic;}
+#para3{text-transform: uppercase;}
+#para4{text-decoration: underline;}
+#para5{text-decoration: overline;}
+#para6{border: 10px solid #070707;}
+#para7{word-spacing: 20px;}
+#para8{letter-spacing: 20px;}
+#para9{text-align: center;}
+#para10{text-align: justify;}
+#para11{text-indent: 50px;}
+#para12{text-shadow: 10px 10px 2px red;}
+/* class#14 */
+#para13::{color: #000;}
+p[title]{color: blue;}
+#para2[title]{background-color: aqua color; color: white; }
+
+#para14{
+    border: 1px solid black;
+    max-width: 300px;
+    max-height: 100px;
+    overflow: auto;
+}
+
+
